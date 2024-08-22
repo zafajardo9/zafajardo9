@@ -85,11 +85,13 @@ DevOps
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zafajardo9"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zafajardo9" /></a><a href="https://ko-fi.com/zafajardo9"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zafajardo9" /></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zafajardo9&label=Profile%20views&color=0e75b6&style=flat" alt="zafajardo9" /> </p>
+
 
 
 <h3 align="left">Track:</h3>
 <div align="left">
 <a href="https://github.com/zafajardo9" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafajardo9&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zafajardo9&label=Profile%20views&color=0e75b6&style=flat" alt="zafajardo9" /> </p>
+
