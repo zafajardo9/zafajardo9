@@ -19,8 +19,8 @@ About me:
 Want to know me more?
 
 - 💬 You can ask me about **Anything related to programming**
-- 📫 How to reach me **zafajardo9@gmail.com** and **[Portfólio](https://zafajardo9-portfolio.netlify.app)**
-- 📄 Know about my experiences [Link Here!](https://ik.imagekit.io/23umzxu6uw/Fajardo,%20Zackery%20Alline.pdf?updatedAt=1708830391880)
+- 📫 How to reach me **zafajardo9@gmail.com**
+- 📄 Know about my experiences **[Portfólio](https://zackz.netlify.app)**
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
